@@ -1,3 +1,13 @@
+# !/usr/bin/python
+# -*- coding: utf-8 -*-
+"""
+@File    :   clip_for_predict.py
+@Time    :   2021/06/01 14:43:22
+@Author  :   Nan Wang
+@Version :   1.0
+@Contact :   nanwang.ac@gmail.com
+@License :   (C)Copyright 2021
+"""
 import numpy as np
 
 """
